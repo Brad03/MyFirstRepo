@@ -1,4 +1,4 @@
-
+import time
 ### MAD LIB ###
 ### Source: http://www.rainbowresource.com/products/001471i1.jpg
 
@@ -70,3 +70,5 @@ print("PATIENT: Are you going to pull my " + noun7 + " out?")
 print("DENTIST: No. I'm going to " + verb1 + " your tooth and put in a temporary " + noun8 + ".")
 print("PATIENT: When do I come back for the " + adj2 + " filling?")
 print("DENTIST: A day after I cash your " + noun9 + ".")
+
+time.sleep (100)
